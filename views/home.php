@@ -13,6 +13,7 @@
             <label for="random_cells">Live cells number:</label>
             <input type="text" class="form-control" id="random_cells" name="random_cells">
         </div>
+        <div class="errors-wrapper"></div>
         <button type="submit" class="btn btn-success col-sm-12">Start new game</button>
     </form>
 

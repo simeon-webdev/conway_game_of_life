@@ -14,3 +14,8 @@
 table.table-bordered > tbody > tr > td{
     border:1px solid #000;
 }
+
+.error-handler {
+    color: #ff0000;
+    font-weight: bold;
+}
